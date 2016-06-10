@@ -24,7 +24,7 @@ namespace XFScreenTransition
 			var page = new ContentPage
 			{
 
-				Title = "ScreenTransition",
+				Title = "XFScreenTransition",
 				Content = new StackLayout
 				{
 					Children = {
